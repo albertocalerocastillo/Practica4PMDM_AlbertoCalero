@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Avatar</string>
+    <string name="btn_nombre">Nombre</string>
+    <string name="btn_sexo">Sexo</string>
+    <string name="btn_especie">Especie</string>
+    <string name="btn_profesion">Profesión</string>
+    <string name="txt_nombre"></string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string-array name="especie">
+        <item>Elfo</item>
+        <item>Enano</item>
+        <item>Hobbit</item>
+        <item>Humano</item>
+    </string-array>
+    <string-array name="profesion">
+        <item>Arquero</item>
+        <item>Guerrero</item>
+        <item>Mago</item>
+        <item>Herrero</item>
+        <item>Minero</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lbl_vida"></string>
+    <string name="lbl_magia"></string>
+    <string name="lbl_fuerza"></string>
+    <string name="lbl_velocidad"></string>
+</resources>
